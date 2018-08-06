@@ -7,8 +7,14 @@ public class HelloTest {
 		System.out.println("홍달링");
 		System.out.println("그랜드카니발");
 		System.out.println("달링test2");
+
 		System.out.println("달링test");
 		
 		System.out.println("안녕");
+
+		System.out.println("스타렉스9인승");
+		System.out.println("그랜드카니발12인승");
+		
+
 	}
 }
