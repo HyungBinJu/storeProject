@@ -35,7 +35,10 @@ public class HelloTest {
 		System.out.println("스타렉스9인승");
 		System.out.println("스타렉스9인승");
 		System.out.println("스타렉스9인승");
-		
+		System.out.println("안녕");
+		System.out.println("안녕");
+		System.out.println("안녕");
+		System.out.println("안녕");
 		
 	}
 }
