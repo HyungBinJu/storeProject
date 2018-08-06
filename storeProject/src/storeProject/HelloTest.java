@@ -7,7 +7,9 @@ public class HelloTest {
 		System.out.println("홍달링");
 		System.out.println("그랜드카니발");
 		System.out.println("달링test2");
+
 		System.out.println("달링test");
+<<<<<<< HEAD
 
 		System.out.println("ㅋㅋㅋㅋㅋㅋ");
 
@@ -19,5 +21,12 @@ public class HelloTest {
 		System.out.println("테스트4");
 		System.out.println("테스트sdf2"); 
 		System.out.println("테스트");
+		
+		System.out.println("안녕");
+
+		System.out.println("스타렉스9인승");
+		System.out.println("그랜드카니발12인승");
+		System.out.println("그랜드카니발12인승");
+		System.out.println("그랜드카니발12인승");
 	}
 }
