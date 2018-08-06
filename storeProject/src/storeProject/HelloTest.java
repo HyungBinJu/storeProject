@@ -30,15 +30,12 @@ public class HelloTest {
 		System.out.println("그랜드카니발12인승");
 		System.out.println("그랜드카니발12인승");
 		System.out.println("그랜드카니발12인승");
-		System.out.println("그랜드카니발12인승");
-		System.out.println("그랜드카니발12인승");
-		System.out.println("그랜드카니발12인승");
-		System.out.println("그랜드카니발12인승");
-		System.out.println("그랜드카니발12인승");
-		System.out.println("그랜드카니발12인승");
-		System.out.println("그랜드카니발12인승");
-		System.out.println("그랜드카니발12인승");
-		System.out.println("그랜드카니발12인승");
-		System.out.println("그랜드카니발12인승");
+		System.out.println("스타렉스9인승");
+		System.out.println("스타렉스9인승");
+		System.out.println("스타렉스9인승");
+		System.out.println("스타렉스9인승");
+		System.out.println("스타렉스9인승");
+		
+		
 	}
 }
