@@ -8,5 +8,6 @@ public class HelloTest {
 		System.out.println("그랜드카니발");
 		System.out.println("달링test2");
 		System.out.println("달링test");
+		System.out.println("테스트");
 	}
 }
