@@ -13,9 +13,9 @@ public class HelloTest {
 
 		System.out.println("테스트7sdf");
 		System.out.println("테스트6sdf");
-		System.out.println("테스트3sdf3");
-		System.out.println("테스트sdf5");
-		System.out.println("테스트sdf5");
+		System.out.println("asdf테스트3sdf3");
+		System.out.println("adsf테스트sdf5");
+		System.out.println("asdf테스트sdf5");
 		System.out.println("테스트4");
 		System.out.println("테스트sdf2"); 
 		System.out.println("테스트");
