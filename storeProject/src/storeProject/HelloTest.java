@@ -9,5 +9,11 @@ public class HelloTest {
 		System.out.println("달링test2");
 		System.out.println("달링test");
 		System.out.println("테스트");
+		System.out.println("테스트2");
+		
+		System.out.println("테스트3");
+		
+		System.out.println("테스트4");
+		
 	}
 }
